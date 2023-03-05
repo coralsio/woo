@@ -1,0 +1,18 @@
+{
+  "code": "corals-woo",
+  "name": "Woocommerce Module",
+  "author": "Corals",
+  "type": "module",
+  "description": "Woocommerce importer module",
+  "namespace": "Corals\\Modules\\Woo\\",
+  "provider": "WooServiceProvider",
+  "version": "1.1",
+  "load_order": "0",
+  "folder": "Woo",
+  "autoload": "psr-4",
+  "icon": "fa fa-clone",
+  "require": {
+  },
+  "supported_platforms": [
+  ]
+}
